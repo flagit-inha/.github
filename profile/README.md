@@ -25,7 +25,9 @@
   - 단체 할인/제휴 정보가 체계적으로 제공되지 않음
 
 ### 해결 방안
-![alt text](photos/서비스소개.png)
+<div align="center">
+  <img src="./photos/서비스소개.png" alt="Service Intro" style="border-radius:10px; width:520px; height:auto; display:block; margin:8px auto 0;"/>
+</div>
 
 **Flagit**은 모임(크루)들이 활동하면서 자연스럽게 지역 상권을 이용하고,  
 그 기록을 쌓아 **혜택·보상**까지 받을 수 있는 플랫폼을 지향합니다.
@@ -42,7 +44,10 @@
 ---
 
 ## 🔧 핵심 기능
-![alt text](image.png)
+<div align="center">
+  <img src="image.png" alt="Feature Image" style="border-radius:10px; width:520px; height:auto; display:block; margin:8px auto 0;"/>
+</div>
+
 ### 1. 크루 운영
 - 동호회/크루 생성 및 멤버 관리
 - 정기 모임 일정 관리
